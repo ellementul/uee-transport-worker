@@ -1,0 +1,11 @@
+{
+    "type": "module",
+    "source": "./index.html", 
+    "@parcel/resolver-default": {
+        "packageExports": true
+    },
+    "alias": {
+        "sinon": "../../node_modules/sinon",
+        "@ellementul/uee-core": "../../node_modules/@ellementul/uee-core"
+    }
+}
